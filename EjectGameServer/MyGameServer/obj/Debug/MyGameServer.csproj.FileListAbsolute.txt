@@ -1,0 +1,10 @@
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+C:\Users\胡瑾凡\Documents\Visual Studio 2017\Projects\PhontonServer\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+C:\Users\胡瑾凡\Documents\Visual Studio 2017\Projects\PhontonServer\MyGameServer\obj\Debug\MyGameServer.csproj.CopyComplete
+C:\Users\胡瑾凡\Documents\Visual Studio 2017\Projects\PhontonServer\MyGameServer\obj\Debug\MyGameServer.dll
+C:\Users\胡瑾凡\Documents\Visual Studio 2017\Projects\PhontonServer\MyGameServer\obj\Debug\MyGameServer.pdb
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll.config
+C:\Users\胡瑾凡\Documents\Visual Studio 2017\Projects\PhontonServer\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache

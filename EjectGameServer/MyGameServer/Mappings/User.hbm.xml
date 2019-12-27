@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="MyGameServer"
+                   namespace="MyGameServer.Model">
+
+  <class name="User" table="user">
+    <id name="Id" column="User_ID" type="Int32">
+      <generator class="native"></generator>
+    </id>
+    <property name="Username" column="username" type="String"></property>
+    <property name="Password" column="password" type="String"></property>
+    <property name="Type" column="Type" type="Int32"></property>
+    <property name="Online_Type" column="Online_Type" type="Int32"></property>
+    <property name="Gender" column="Gender" type="Int32"></property>
+    <property name="Gold_num" column="Gold_num" type="Int32"></property>
+    <property name="Diamond_num" column="Diamond_num" type="Int32"></property>
+    <property name="Lives_num" column="Lives_num" type="Int32"></property>
+  </class>
+
+</hibernate-mapping>
