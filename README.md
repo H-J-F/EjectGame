@@ -129,6 +129,10 @@ Unity3D+PhotonServer+MySQL开发
 
 ![image](https://github.com/H-J-F/EjectGame/blob/master/ReadmeImages/对战画面.png)
 
+手机端战斗界面
+
+![image](https://github.com/H-J-F/EjectGame/blob/master/ReadmeImages/手机端战斗界面.jpg)
+
 游戏胜利
 
 ![image](https://github.com/H-J-F/EjectGame/blob/master/ReadmeImages/游戏胜利.png)
