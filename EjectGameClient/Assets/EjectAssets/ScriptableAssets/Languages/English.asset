@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf121583eada3bb4fa0a873d414a18cc, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  language: 0
+  languageUnits:
+  - textId: Login
+    content: Login
+    fontSize: 0
+    lineSpace: 0
+  - textId: Register
+    content: Sign Up
+    fontSize: 0
+    lineSpace: 0
+  - textId: Username
+    content: Username
+    fontSize: 0
+    lineSpace: 0
+  - textId: Password
+    content: Password
+    fontSize: 0
+    lineSpace: 0
+  - textId: RepeatPassword
+    content: Repeat Password
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_O2
+    content: "O\u2082"
+    fontSize: 44
+    lineSpace: 0
+  - textId: StartScene_HP
+    content: HP
+    fontSize: 44
+    lineSpace: 0
+  - textId: StartScene_Power
+    content: Power
+    fontSize: 30
+    lineSpace: 1
+  - textId: StartScene_DangerWarning
+    content: Warning
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_WarningText
+    content: Detected that the main control center is being illegally invaded, you
+      have lost control, energy is rapidly losing, the protection cover will be closed,
+      and the spaceship will immediately start a low-energy mode.
+    fontSize: 32
+    lineSpace: 1.25
+  - textId: StartScene_TipText
+    content: Received an anonymous email from unknown sources.
+    fontSize: 34
+    lineSpace: 1
+  - textId: StartScene_TipTitle
+    content: Received an anonymous email
+    fontSize: 48
+    lineSpace: 0
+  - textId: StartScene_SkipTipText
+    content: Click the screen to skip the animation.
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_AnonymousMail
+    content: Anonymous mail
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Setting
+    content: Settings
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Sound
+    content: SOUND
+    fontSize: 45
+    lineSpace: 0
+  - textId: MainMenuScene_Music
+    content: MUSIC
+    fontSize: 45
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate
+    content: FRAME RATE
+    fontSize: 45
+    lineSpace: 0
+  - textId: MainMenuScene_GraphicsQuality
+    content: GRAPHICS QUALITY
+    fontSize: 45
+    lineSpace: 0
+  - textId: MainMenuScene_Language
+    content: LANGUAGE
+    fontSize: 45
+    lineSpace: 0
+  - textId: MainMenuScene_Language_ZH_CN
+    content: ZH-CN
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Language_ZH_TW
+    content: ZH-TW
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Language_English
+    content: English
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Low
+    content: Low
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Medium
+    content: Medium
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_High
+    content: High
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Most
+    content: Most
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_Low
+    content: Low
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_High
+    content: High
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_Fantastic
+    content: Fantastic
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Defense
+    content: DEFENSE
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_MoveSpeed
+    content: MOVE SPEED
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_AttackSpeed
+    content: ATTACK SPEED
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_ShotSpeed
+    content: SHOT SPEED
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Energy
+    content: ENERGY
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Aggressivity
+    content: AGGRESSIVITY
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_BailPermit
+    content: BAIL
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_StrengthenPermit
+    content: STRENGTHEN
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopName
+    content: SHOP
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Coin
+    content: COIN
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Diamond
+    content: DIAMOND
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Life
+    content: LIFE
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_1
+    content: 5% BONUS
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_2
+    content: 10% BONUS
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_3
+    content: 15% BONUS
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_4
+    content: 20% BONUS
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonStartGame
+    content: START
+    fontSize: 106
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonLab
+    content: LAB
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonBail
+    content: BAIL
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonCharacters
+    content: CHAR
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Character
+    content: CHAR
+    fontSize: 60
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Back
+    content: BACK
+    fontSize: 60
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Ghost
+    content: GHOST
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Playing
+    content: YOU ARE PLAYING
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Battle
+    content: ' ]  BATTLE'
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_CharacterLabel
+    content: "CHARACTER\uFF1A"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Back
+    content: BACK
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Resume
+    content: RESUME
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_GameMode_KillMode
+    content: KILL MODE
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_GameMode_EjectMode
+    content: EJECT MODE
+    fontSize: 0
+    lineSpace: 0

@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf121583eada3bb4fa0a873d414a18cc, type: 3}
+  m_Name: TraditionalChinese
+  m_EditorClassIdentifier: 
+  language: 2
+  languageUnits:
+  - textId: Login
+    content: "\u767B\u9678"
+    fontSize: 0
+    lineSpace: 0
+  - textId: Register
+    content: "\u8A3B\u518A"
+    fontSize: 0
+    lineSpace: 0
+  - textId: Username
+    content: "\u7528\u6236\u540D"
+    fontSize: 0
+    lineSpace: 0
+  - textId: Password
+    content: "\u5BC6\u78BC"
+    fontSize: 0
+    lineSpace: 0
+  - textId: RepeatPassword
+    content: "\u91CD\u8907\u5BC6\u78BC"
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_O2
+    content: "\u6C27\u6C23\u503C"
+    fontSize: 36
+    lineSpace: 0
+  - textId: StartScene_HP
+    content: "\u751F\u547D\u503C"
+    fontSize: 36
+    lineSpace: 0
+  - textId: StartScene_Power
+    content: "\u80FD\u6E90"
+    fontSize: 40
+    lineSpace: 1
+  - textId: StartScene_DangerWarning
+    content: "\u5371\u96AA\u9810\u8B66"
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_WarningText
+    content: "\u6AA2\u6E2C\u5230\u4E3B\u63A7\u4E2D\u5FC3\u906D\u9047\u975E\u6CD5\u5165\u4FB5\uFF0C\u63A7\u5236\u6B0A\u88AB\u975E\u6CD5\u596A\u53D6\uFF0C\u80FD\u6E90\u6B63\u5728\u5FEB\u901F\u6D41\u5931\uFF0C\u8B77\u76FE\u5373\u5C07\u95DC\u9589\uFF0C\u99AC\u4E0A\u9032\u5165\u4F4E\u8017\u80FD\u6A21\u5F0F\u3002"
+    fontSize: 40
+    lineSpace: 1.5
+  - textId: StartScene_TipText
+    content: "\u672A\u77E5\u4F86\u6E90\u767C\u4F86\u533F\u540D\u90F5\u4EF6\u3002"
+    fontSize: 40
+    lineSpace: 1
+  - textId: StartScene_TipTitle
+    content: "\u6536\u5230\u533F\u540D\u90F5\u4EF6"
+    fontSize: 50
+    lineSpace: 0
+  - textId: StartScene_SkipTipText
+    content: "\u9EDE\u64CA\u8367\u5E55\u8DF3\u904E\u52D5\u756B"
+    fontSize: 0
+    lineSpace: 0
+  - textId: StartScene_AnonymousMail
+    content: "\u672A\u77E5\u4F86\u6E90\u90F5\u4EF6"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Setting
+    content: "\u8A2D  \u7F6E"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Sound
+    content: "\u97F3\u6548"
+    fontSize: 55
+    lineSpace: 0
+  - textId: MainMenuScene_Music
+    content: "\u97F3\u6A02"
+    fontSize: 55
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate
+    content: "\u5E40\u7387"
+    fontSize: 55
+    lineSpace: 0
+  - textId: MainMenuScene_GraphicsQuality
+    content: "\u756B\u8CEA"
+    fontSize: 55
+    lineSpace: 0
+  - textId: MainMenuScene_Language
+    content: "\u8A9E\u8A00"
+    fontSize: 55
+    lineSpace: 0
+  - textId: MainMenuScene_Language_ZH_CN
+    content: "\u7C21\u9AD4\u4E2D\u6587"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Language_ZH_TW
+    content: "\u7E41\u9AD4\u4E2D\u6587"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Language_English
+    content: "\u82F1\u8A9E"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Low
+    content: "\u4F4E"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Medium
+    content: "\u4E2D"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_High
+    content: "\u9AD8"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_FrameRate_Most
+    content: "\u6700\u9AD8"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_Low
+    content: "\u4F4E"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_High
+    content: "\u8F03\u9AD8"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_Graphics_Fantastic
+    content: "\u6700\u9AD8"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Defense
+    content: "\u9632\u79A6"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_MoveSpeed
+    content: "\u79FB\u901F"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_AttackSpeed
+    content: "\u653B\u901F"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_ShotSpeed
+    content: "\u5C04\u901F"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Energy
+    content: "\u96C6\u6C23\u91CF"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_Aggressivity
+    content: "\u653B\u64CA\u529B"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_BailPermit
+    content: "\u4FDD\u91CB\u8A31\u53EF\u8B49"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopItem_StrengthenPermit
+    content: "\u5BE6\u9A57\u8A31\u53EF\u8B49"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopName
+    content: "\u5546\u5E97"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Coin
+    content: "\u91D1\u5E63"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Diamond
+    content: "\u947D\u77F3"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ShopTab_Life
+    content: "\u751F\u547D"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_1
+    content: "\u8D08\u9001 5%"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_2
+    content: "\u8D08\u9001 10%"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_3
+    content: "\u8D08\u9001 15%"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_ItemBonus_4
+    content: "\u8D08\u9001 20%"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonStartGame
+    content: "\u958B\u59CB\u904A\u6232"
+    fontSize: 123
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonLab
+    content: "\u5BE6\u9A57"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonBail
+    content: "\u4FDD\u91CB"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_MainButtonCharacters
+    content: "\u89D2\u8272"
+    fontSize: 0
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Character
+    content: "\u89D2\u8272"
+    fontSize: 70
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Back
+    content: "\u8FD4\u56DE"
+    fontSize: 70
+    lineSpace: 0
+  - textId: MainMenuScene_LabMenu_Ghost
+    content: "\u5E7D\u9748"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Playing
+    content: "\u6B63\u5728\u9032\u884C"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Battle
+    content: " ]  \u5C0D\u5C40"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_CharacterLabel
+    content: "\u89D2\u8272\uFF1A"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Back
+    content: "\u8FD4\u56DE"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_PauseMenu_Resume
+    content: "\u7E7C\u7E8C"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_GameMode_KillMode
+    content: "\u64CA\u6BBA\u6A21\u5F0F"
+    fontSize: 0
+    lineSpace: 0
+  - textId: GameScene_GameMode_EjectMode
+    content: "\u5F48\u5C04\u6A21\u5F0F"
+    fontSize: 0
+    lineSpace: 0

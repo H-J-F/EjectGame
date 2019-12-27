@@ -1,0 +1,8 @@
+{
+  "Ghost": {
+    "MissilePath": "Effects/Ghost/Normal Missile",
+    "UltraMissilePath": "Effects/Ghost/Ultra Missile",
+    "MuzzlePath": "Effects/Ghost/Normal Muzzle",
+    "UltraMuzzlePath": "Effects/Ghost/Ultra Muzzle"
+  }
+}
