@@ -3,7 +3,7 @@ EjectGame 毕业设计
 
 Unity3D+PhotonServer+MySQL开发
 
-需要安装PhotonServer，并将最外层的MyGameServer文件夹放在 "PhotonServer目录"/deploy/ 下，并在"PhotonServer目录"下的PhotonServer.Config文件完成加上服务器启动的配置。
+需要安装PhotonServer，并将PhotonServerConfig下的MyGameServer文件夹放在 "PhotonServer目录"/deploy/ 下，并在"PhotonServer目录"下的PhotonServer.Config文件完成加上服务器启动的配置。
 
 配置内容如下：
 
